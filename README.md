@@ -124,5 +124,7 @@ Create an Azure account [here](https://azure.microsoft.com/en-us/free/).
 
 <h3>Tip</h3>
 
--  If you want to save your free $200 credits, make sure you delete ALL your resources and resource groups after finishing!    
+-  If you want to save your free $200 credits, make sure you delete ALL your resources and resource groups after finishing!
+
+Click [here](https://github.com/ssidhu1994/Prerequisites-and-Installation) to move on to part 2 of this tutorial!
   
